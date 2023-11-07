@@ -8,3 +8,11 @@ Welcome to my portfolio website! This website showcases my work and provides inf
   <li>Screenshots</li>
   <li>Contact Information</li>
 </ol>
+
+## Technologies Used
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+</ul>
