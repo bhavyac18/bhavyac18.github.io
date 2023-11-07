@@ -25,3 +25,9 @@ Welcome to my portfolio website! This website showcases my work and provides inf
   <li>Projects page , which includes information of my coding projects</li>
   <li>A Resume Download Option in Home page</li>
 </ul>
+
+## Screenshots
+![home](https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9af81362-9fe7-4251-9583-d4e010d6f401)
+![about](https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/d9e6d69d-6574-4561-a3e6-afb20c4e8cb1)
+![contact](https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/839b3e01-bf68-4084-b6d1-4b07ffef6294)
+![projects](https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9a175e0a-f608-49e6-b32f-55384ed273c9)
