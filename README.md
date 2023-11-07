@@ -16,3 +16,12 @@ Welcome to my portfolio website! This website showcases my work and provides inf
   <li>Bootstrap</li>
   <li>JavaScript</li>
 </ul>
+
+## Features
+<ul>
+  <li>A landing Home page that contains my video introduction</li>
+  <li>About Me section at Home page that includes my Bio/li>
+  <li> A Contact Me Section for getting in touch</li>
+  <li>Projects page , which includes information of my coding projects</li>
+  <li>A Resume Download Option in Home page</li>
+</ul>
