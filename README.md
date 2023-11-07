@@ -27,7 +27,7 @@ Welcome to my portfolio website! This website showcases my work and provides inf
 </ul>
 
 ## Screenshots
-Home
+<b>Home<b><br>
 <img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9af81362-9fe7-4251-9583-d4e010d6f401" width="500px"><br>
 About Me
 <img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/d9e6d69d-6574-4561-a3e6-afb20c4e8cb1" width="500px"><br>
