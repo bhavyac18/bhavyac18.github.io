@@ -27,8 +27,12 @@ Welcome to my portfolio website! This website showcases my work and provides inf
 </ul>
 
 ## Screenshots
-<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9af81362-9fe7-4251-9583-d4e010d6f401" width="500px">
-<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/d9e6d69d-6574-4561-a3e6-afb20c4e8cb1" width="500px">
-<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/839b3e01-bf68-4084-b6d1-4b07ffef6294" width="500px">
+Home
+<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9af81362-9fe7-4251-9583-d4e010d6f401" width="500px"><br>
+About Me
+<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/d9e6d69d-6574-4561-a3e6-afb20c4e8cb1" width="500px"><br>
+Contacts
+<img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/839b3e01-bf68-4084-b6d1-4b07ffef6294" width="500px"><br>
+Projects
 <img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9a175e0a-f608-49e6-b32f-55384ed273c9" width="500px">
 
