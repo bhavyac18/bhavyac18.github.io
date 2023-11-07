@@ -31,11 +31,28 @@ body {
 
 /* https://stackoverflow.com/questions/36794634/how-to-create-a-css-translatey-on-hover-effect */
 
-.main {
+/* .main {
   background: url(images/web1.jpeg) no-repeat;
   background-size: cover;
   width: 100%;
+} */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
 }
+
+/* https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
+@media (max-width: 991px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+  .col-lg-8 {
+    grid-row: 2;
+  }
+}
+/* https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
 
 .main h3 {
   font-size: 4.4em;
