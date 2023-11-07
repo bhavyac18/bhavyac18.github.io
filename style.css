@@ -44,7 +44,7 @@ body {
 }
 
 /* https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
-@media (max-width: 991px) {
+@media (max-width: 992px) {
   .grid-container {
     grid-template-columns: 1fr;
   }
