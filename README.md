@@ -40,8 +40,14 @@ Welcome to my portfolio website! This website showcases my work and provides inf
 <img src="https://github.com/bhavyac18/bhavyac18.github.io/assets/53191128/9a175e0a-f608-49e6-b32f-55384ed273c9" width="500px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact Information
 - [Email](mailto:bhavyasreec18@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bhavyasree-c/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Licence
+MIT License Copyright (c) 2020 John Williams
+
+
